@@ -10,5 +10,6 @@
 	"prettier.withNodeModules": false,
 	"prettier.quoteProps": "consistent",
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"editor.formatOnPaste": true
+	"editor.formatOnPaste": true,
+	"files.insertFinalNewline": true
 }

@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"prettier:format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,html}\""
+		"prettier:format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,html,json}\""
 	},
 	"author": "",
 	"license": "ISC",
