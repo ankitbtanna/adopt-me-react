@@ -1,0 +1,14 @@
+{
+	"prettier.requireConfig": true,
+	"editor.formatOnSave": true,
+	"prettier.configPath": "/Users/atanna/Documents/Workspace/adopt-me-react/.prettierrc",
+	"prettier.tabWidth": 2,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleAttributePerLine": true,
+	"prettier.singleQuote": true,
+	"prettier.useTabs": true,
+	"prettier.withNodeModules": false,
+	"prettier.quoteProps": "consistent",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true
+}

@@ -1,0 +1,15 @@
+{
+	"name": "exercise-4-npm-prettier-setup",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"prettier:format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,html}\""
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "3.0.3"
+	}
+}
