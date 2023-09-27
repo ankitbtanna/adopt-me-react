@@ -46,9 +46,14 @@ class Carousel extends Component {
 	}
 }
 
-function CarouselParent({ animal }) {
+function CarouselParent({ animal, images }) {
 	const breedList = useBreedsList(animal);
-	return <Carousel breedList={breedList} />;
+	return (
+		<Carousel
+			breedList={breedList}
+			images={images}
+		/>
+	);
 }
 
 export default CarouselParent;
